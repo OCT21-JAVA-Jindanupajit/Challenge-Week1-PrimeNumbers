@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="537887d8-bb21-4e40-a345-fb3a9774396d" name="Default Changelist" comment="" />
+    <list default="true" id="537887d8-bb21-4e40-a345-fb3a9774396d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part4.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SeSAgWeroIRPT6XoL441IjY7V8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -32,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Challenge1Part1">
+  <component name="RunManager" selected="Application.Challenge1Part2">
     <configuration name="Challenge1Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jindanupajit.Oct21Java.Challenge.Week1.Challenge1Part1" />
       <module name="OCT21-JAVA-WeekOneChallenge-PN" />
@@ -59,10 +67,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Challenge1Part3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jindanupajit.Oct21Java.Challenge.Week1.Challenge1Part3" />
+      <module name="OCT21-JAVA-WeekOneChallenge-PN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jindanupajit.Oct21Java.Challenge.Week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge1Part4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jindanupajit.Oct21Java.Challenge.Week1.Challenge1Part4" />
+      <module name="OCT21-JAVA-WeekOneChallenge-PN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jindanupajit.Oct21Java.Challenge.Week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Challenge1Part1" />
         <item itemvalue="Application.Challenge1Part2" />
+        <item itemvalue="Application.Challenge1Part1" />
+        <item itemvalue="Application.Challenge1Part4" />
+        <item itemvalue="Application.Challenge1Part3" />
       </list>
     </recent_temporary>
   </component>
@@ -76,11 +112,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571922426516</updated>
-      <workItem from="1571922431010" duration="3222000" />
+      <workItem from="1571922431010" duration="5626000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

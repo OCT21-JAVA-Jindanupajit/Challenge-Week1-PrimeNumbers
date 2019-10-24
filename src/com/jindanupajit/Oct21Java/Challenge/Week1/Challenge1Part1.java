@@ -14,7 +14,7 @@ import java.util.Scanner;
 //        else-if testSubject is 0
 //                print "Bye"
 //                break infinite-loop
-//        else-if testSubject less or equal 2
+//        else-if testSubject less or equal 2 or an even number
 //                print testSubject "is not a prime number"
 //                continue infinite-loop
 //        else
@@ -45,7 +45,7 @@ public class Challenge1Part1 {
           } else if (testSubject == 0) {
               System.out.println("Bye");
               break; //while
-          } else if (testSubject <= 2) {
+          } else if ((testSubject <= 2)||((testSubject % 2)==0)) {
               System.out.println(testSubject+" is not a prime number");
               continue; //while
           } else  {

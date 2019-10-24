@@ -6,7 +6,7 @@ import java.util.Random;
 //   prepare scanner with system input stream
 //   initialize testBoundary to primitive-integer with value 250
 //   initialize testSubject to primitive-integer with random value between 1 and testBoundary
-//        if testSubject less or equal 2
+//        if testSubject less or equal 2 or an even number
 //                print testSubject "is not a prime number"
 //        else
 //                print testSubject "is "
@@ -27,7 +27,7 @@ public class Challenge1Part2 {
         int testBoundary = 250;
         int testSubject = (new Random()).nextInt(testBoundary)+1;
 
-        if (testSubject <= 2) {
+        if ((testSubject <= 2)||((testSubject % 2)==0)) {
             System.out.println(testSubject+" is not a prime number");
         } else  {
             System.out.print(testSubject+" is ");
