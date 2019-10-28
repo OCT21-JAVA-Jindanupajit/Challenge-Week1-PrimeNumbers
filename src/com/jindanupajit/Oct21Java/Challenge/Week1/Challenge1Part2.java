@@ -10,7 +10,7 @@ import java.util.Random;
 //                print testSubject "is not a prime number"
 //        else
 //                print testSubject "is "
-//                for-loop i is the number from 2 to the number less than testSubject
+//                for-loop i is the number from 3 to the number less than testSubject
 //                    if testSubject modulus by i is not 0
 //                        continue for-loop
 //                    else
@@ -31,7 +31,7 @@ public class Challenge1Part2 {
             System.out.println(testSubject+" is not a prime number");
         } else  {
             System.out.print(testSubject+" is ");
-            for (int i = 2; i < testSubject; ++i) {
+            for (int i = 3; i < testSubject; i+=2) {
                 if ((testSubject % i) != 0) {
                     continue; //for
                 } else {

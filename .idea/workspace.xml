@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="537887d8-bb21-4e40-a345-fb3a9774396d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jindanupajit/Oct21Java/Challenge/Week1/Challenge1Part4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571922426516</updated>
       <workItem from="1571922431010" duration="5626000" />
+      <workItem from="1571929281440" duration="1132000" />
     </task>
     <servers />
   </component>
@@ -124,7 +123,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

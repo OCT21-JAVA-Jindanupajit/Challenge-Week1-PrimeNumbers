@@ -38,7 +38,7 @@ public class Challenge1Part4 {
 
             } else {
                 System.out.print(testSubject + " is ");
-                for (int i = 2; i < testSubject; ++i) {
+                for (int i = 3; i < testSubject; i+=3) {
                     if ((testSubject % i) != 0) {
                         continue; //for
                     } else {
